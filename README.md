@@ -18,7 +18,7 @@ GitHubの使い方を勉強中
 
 ## やってみたいこと
 - Docker
-- Androidアプリ(Java)
+- Androidアプリ(Kotlin)
 - Vue.js
 - React.js
 - OpenGL
